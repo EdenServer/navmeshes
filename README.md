@@ -8,7 +8,7 @@ also prevent aggro through walls.
 ## How to Install
 
 * Pull the repo
-* Copy contents of the `navmeshes` folder to `darkstar/navmeshes`
-* Restart the game server
+* Copy contents of the `navmeshes` folder to `eden/navmeshes`
+* Restart the game/map server
 
-Navmeshes in `darkstar/navmeshes` are automatically loaded.
+Navmeshes in `eden/navmeshes` are automatically loaded.
